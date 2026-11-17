@@ -1,0 +1,6 @@
+{
+  "name": "LeafCheck",
+  "description": "Plant disease screening tool for home gardeners, terrace growers, and small farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
